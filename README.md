@@ -1,16 +1,20 @@
-### Hi there 👋
 
-<!--
-**jaredmontierth/jaredmontierth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I'm Jared, a data science student and machine learning enthusiast.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Personal Explorations
+
+### [TL;DR](http://147.185.221.212:41897)
+
+  A news article summarizer I built using PyTorch and Flask.
+
+### [ESPN Fantasy Basketball Twitter Bot](https://github.com/jaredmontierth/twitterbot)
+
+  A Twitter bot I created that responds with live stats from my fantasy basketball league.
+
+
+## Reach Out
+- [LinkedIn](https://www.linkedin.com/in/jared-montierth/)
+- [Email](mailto:montierth.jared@gmail.com)
+
+
