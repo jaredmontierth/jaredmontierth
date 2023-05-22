@@ -4,7 +4,7 @@ I'm Jared, a data science student and machine learning enthusiast.
 
 ## Personal Explorations
 
-### [TL;DR](http://147.185.221.212:41897)
+### [TL;DR](https://github.com/jaredmontierth/summarizer)
 
   A news article summarizer I built using PyTorch and Flask.
 
