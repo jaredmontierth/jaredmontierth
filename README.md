@@ -1,6 +1,6 @@
 
 
-I'm Jared, a data science student and machine learning enthusiast.
+I'm Jared, a software engineering student.
 
 ## Personal Explorations
 
