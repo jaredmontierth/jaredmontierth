@@ -16,6 +16,7 @@ I'm Jared, a software engineering student.
   A tool that combines all my assignments due for the week into one table from their various websites.
 
 ### [Password Game Bot](https://github.com/jaredmontierth/password-game)
+  A bot that solves the password game.
 
 ## Reach Out
 - [LinkedIn](https://www.linkedin.com/in/jared-montierth/)
