@@ -12,6 +12,8 @@ I'm Jared, a software engineering student.
 
   A Twitter bot I created that responds with live stats from my fantasy basketball league.
 
+### [School Scraper](https://github.com/jaredmontierth/school-scraper)
+  A tool that combines all my assignments due for the week into one table from their various websites.
 
 ## Reach Out
 - [LinkedIn](https://www.linkedin.com/in/jared-montierth/)
