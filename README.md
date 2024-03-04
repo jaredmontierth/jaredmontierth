@@ -1,6 +1,6 @@
 
 
-I'm Jared, a software engineering student.
+I'm Jared, a software engineer.
 
 ## Personal Explorations
 
